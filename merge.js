@@ -1,0 +1,3 @@
+middle(){
+	return true;
+}
