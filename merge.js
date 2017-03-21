@@ -1,7 +1,7 @@
 master(){
 	return true;
 }
-middle(){
+middle3(){
 	return true;
 }
 m(){
